@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "downlevelIteration": true,
+        "preserveConstEnums": true,
+        "allowJs": true,
+        "target": "ES2017",
+        "sourceMap": true,
+        "outDir": "dist",
+        "resolveJsonModule": true,
+        "incremental": true,
+        "removeComments": true
+    },
+    "include": ["*"],
+    "exclude": ["node_modules/**/*"],
+    "lib": ["ES2017"]
+}

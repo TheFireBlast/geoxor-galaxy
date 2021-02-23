@@ -1,0 +1,21 @@
+{
+  "name": "geoxor-galaxy",
+  "version": "1.0.0",
+  "description": "Geoxor-themed procedural constellation",
+  "main": "sketch.js",
+  "devDependencies": {
+    "@types/p5": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p5",
+    "p5js",
+    "procedural",
+    "constellation",
+    "geoxor"
+  ],
+  "author": "FireBlast",
+  "license": "MIT"
+}
