@@ -11,6 +11,10 @@
 
 Character not included but can be used with the name `galaxy.png`.
 
+Works with both [Wallpaper Engine][wallpaper-engine] and [Lively][lively].
+
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 [license-shield]: https://img.shields.io/github/license/TheFireBlast/geoxor-galaxy.svg?style=for-the-badge
+[lively]: https://rocksdanister.github.io/lively/
+[wallpaper-engine]: https://store.steampowered.com/app/431960/Wallpaper_Engine/
