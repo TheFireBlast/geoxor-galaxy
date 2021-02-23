@@ -5,9 +5,9 @@
 
 > Based on [Geoxor's Galaxy](https://www.youtube.com/watch?v=574JWkI_nuc) cover art
 
-<a href="thefireblast.github.io/geoxor-galaxy"><strong>View Demo »</strong></a>
+<a href="https://TheFireBlast.github.io/geoxor-galaxy"><strong>View Demo »</strong></a>
 <br />
-<img src="https://i.imgur.com/9PUFsMx.gif" />
+<img src="https://i.imgur.com/Z7izbZE.gif" />
 
 Character not included but can be used with the name `galaxy.png`.
 
